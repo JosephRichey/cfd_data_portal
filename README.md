@@ -4,3 +4,5 @@ This is a personal project to push me in developing bslib and general shiny deve
 Currently, this app only supports the most basic functions (adding training and members, and very basic output of training data). Eventually, I plan to also incorporate features to modify check-in/check-out times, further analysis, more detailed automated reporting, and better classification methods for determining if someone receives credit for training.
 
 In the future, this can also be developed further to track progress on recertification, call response, and other data that is useful and sometimes challenging for fire departments to track.
+
+This has been merged with other repositories containing more work and will no longer be updated. The lastest work can be found at [this repository](https://github.com/JosephRichey/fire-data).
